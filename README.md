@@ -7,12 +7,15 @@ quite easy to understand. Here I have backtracking for rat position.
 
 Here are the output of the game- 
  - Menu:
+   
    <img width="646" height="308" alt="Screenshot 2025-09-03 at 10 33 34 PM" src="https://github.com/user-attachments/assets/57b323c7-8337-48c2-92c6-d1f9a367d6ff" />
 
 - Game Play (Choice = 1)
+  
   <img width="646" height="376" alt="Screenshot 2025-09-03 at 10 34 16 PM" src="https://github.com/user-attachments/assets/3ef2dd62-a984-48d6-a78b-dd19d5c41f55" />
 
 - Game Result
+  
   <img width="545" height="455" alt="Screenshot 2025-09-03 at 10 35 08 PM" src="https://github.com/user-attachments/assets/299f5571-6fe1-428f-be25-6ad6a3b90f9e" />
 
 
