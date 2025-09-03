@@ -1,6 +1,4 @@
 //Rat in a Maze
-//CSE207 Project (Nushrat, Raiyan, Farabi) 
-
 
 #include <bits/stdc++.h>
 #include <windows.h>
